@@ -1,0 +1,9 @@
+#backend compiled dir
+server/
+
+# Dependency directories
+node_modules/
+
+
+#build
+tsconfig.tsbuildinfo
